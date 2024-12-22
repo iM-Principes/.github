@@ -8,18 +8,24 @@
 
 <br>
 <div align="center">
-  <h2> 🌿 SBT를 이용한 ESG Grow-Up 금리 감면 혜택 </h2>
+  <h2> 🌿 SBT를 이용한 ESG Grow-Up 금리 감면 혜택 🌿 </h2>
   Private Network 와 SBT 를 기반한 ESG 금융 인증 서비스
 </div>
 
 <br>
 <div align="center">
-  <h2> 🫴🏻 Project Introduction </h2>
-  ESG 데이터를 블록체인 네트워크에 등록하여 투명성과 보안성 강화.
-  ESG 경영 기업을 대상으로 한 금리 인하 정책 실시간 반영을 통한 불필요한 업무 절차 간소화 및 즉각적이고 효율적인 금융 혜택 제공.
-  이를 통한 브랜드 가치 제고.
+  <h2> 👉 Project Introduction 👈 </h2>
+  ESG 데이터를 블록체인 네트워크에 등록하여 투명성과 보안성 강화<br>
+  ESG 경영 기업을 대상으로 한 금리 인하 정책 실시간 반영을 통한 불필요한 업무 절차 간소화 및 즉각적이고 효율적인 금융 혜택 제공<br>
+  이를 통한 브랜드 가치 제고
 </div>
 <br>
+<div align="center">
+  <h2> 🛠️ 시스템 구조도 🛠️ </h2>
+  <img width="650px" src="https://github.com/user-attachments/assets/4abf4c02-98ef-4a99-b598-268d75645a1e" />
+</div>
+<br>
+
 <div align="center">
   <h2>✨ Team </h2>
 
